@@ -102,13 +102,12 @@ UeeCard 是专业的国际虚拟信用卡服务提供商,致力于为跨境电�
 
 | 项目 | 费用 | 说明 |
 |------|------|------|
-| 开卡费用 | ¥5-15/张 | 根据卡类型不同 |
-| 月服务费 | ¥0-5/张 | VIP卡免月费 |
-| 充值手续费 | 1-3% | 根据支付方式 |
-| 汇率手续费 | 0.5-1% | 实时汇率 |
-| 交易手续费 | 0-1% | 根据商户类型 |
+| 开卡费用 | ¥1/张 | 根据卡类型不同 |
+| 月服务费 |限免 | VIP卡免月费 |
+| 充值手续费 | 1% | 根据支付方式 |
+| 交易手续费 | 0.1% | 根据商户类型 |
 
-> 🎉 新用户福利: 首次充值满¥100送¥20!
+> 🎉 限时全员优惠
 
 
 ### 🔗 相关链接
@@ -117,15 +116,6 @@ UeeCard 是专业的国际虚拟信用卡服务提供商,致力于为跨境电�
 - **用户中心**: [https://center.ueecard.com](https://center.ueecard.com)
 - **Telegram 客服**: [@ueecard](https://t.me/ueecard)
 - **用户交流群**: [加入 Telegram 群](https://t.me/UeeCardGroup)
-
-### 📚 账户类型
-
-| 账户类型 | 月度额度 | 卡片数量 | 适用人群 |
-|---------|---------|---------|---------|
-| 基础版 | $5,000 | 5张 | 个人用户、新手 |
-| VIP版 | $20,000 | 20张 | 跨境电商卖家、企业 |
-| 企业版 | 无限制 | 无限制 | 大型企业、代理商 |
-
 
 
 ### 🎯 为什么选择 UeeCard
@@ -159,41 +149,40 @@ UeeCard 是专业的国际虚拟信用卡服务提供商,致力于为跨境电�
 - 📊 交易记录实时查询
 
 ---
-
 ## English
 
 ### 📌 Introduction
 
-UeeCard is a professional international virtual credit card service provider dedicated to offering secure, convenient, and instant global payment solutions for cross-border e-commerce sellers, digital advertisers, businesses, and individual users.
+UeeCard is a professional international virtual credit card service provider, dedicated to providing safe, convenient, and instant global payment solutions for cross-border e-commerce sellers, advertising professionals, enterprise users, and individual users.
 
-### ✨ Key Features
+### ✨ Core Features
 
-- ⚡ **Instant Card Generation** - Get your virtual card in 5 minutes, no waiting
-- 🔒 **Secure & Isolated** - Separate from your physical card, reduce fraud risk
-- 💱 **Multi-Currency Support** - USD, EUR, GBP and more international currencies
-- 🌍 **Global Payment** - Accepted by Visa/Mastercard merchants worldwide
-- 🎯 **Flexible Control** - Custom limits and expiration dates
-- 📊 **Smart Management** - Real-time transaction notifications and detailed records
-- 🤖 **API Integration** - Enterprise-level API for automation
-- 💬 **24/7 Support** - Telegram support with quick response
+- ⚡ **Instant Card Issuance** - Complete in 5 minutes, no waiting for mail delivery
+- 🔒 **Security Protection** - Isolated from physical cards, reducing fraud risk
+- 💱 **Multi-Currency Support** - Supports USD, EUR, GBP, and other international currencies
+- 🌍 **Global Payments** - Visa/Mastercard network, universally accepted worldwide
+- 🎯 **Flexible Management** - Customizable limits and validity periods for precise budget control
+- 📊 **Smart Management** - Real-time transaction notifications and detailed spending records
+- 🤖 **API Integration** - Enterprise-grade API for automated management
+- 💬 **24/7 Support** - Telegram for quick response and professional assistance
 
 ### 💡 Use Cases
 
-#### 🛒 Cross-Border E-commerce
-- Google Ads / Facebook Ads / TikTok Ads payment
-- Shopify / WooCommerce store payments
-- Amazon / AliExpress store fees
+#### 🛒 Cross-Border E-Commerce
+- Google Ads / Facebook Ads / TikTok Ads advertising
+- Shopify / WooCommerce independent website payments
+- Amazon / AliExpress store service fees
 - Overseas procurement
 
 #### 📺 Subscription Services
 - Netflix / Spotify / Disney+ streaming
 - ChatGPT Plus / Midjourney AI services
 - SaaS software subscriptions
-- Adobe Creative Cloud & professional software
+- Adobe Creative Cloud and other professional software
 
-#### 💼 Business Applications
-- Employee travel expenses
-- Project-specific purchases
+#### 💼 Enterprise Applications
+- Employee business travel payments
+- Project-specific procurement
 - Precise budget control
 - Automated financial reconciliation
 
@@ -204,126 +193,89 @@ UeeCard is a professional international virtual credit card service provider ded
 
 ### 🚀 Quick Start
 
-#### Step 1: Register Account
+#### Step 1: Register an Account
 ```
-Visit: https://center.ueecard.com/register?invite_code=mDeYsE
+Visit: https://ueecard.com
 
-Provide:
+Fill in:
 - Basic information
 - Contact details
 - Identity verification
 ```
 
-#### Step 2: Deposit Funds
+#### Step 2: Add Funds
 ```
-Payment Methods:
-- Bank Card
+Payment methods:
+- Bank card payment
 - Cryptocurrency (USDT, etc.)
 - Other payment methods
 
-Minimum Deposit: ¥100 or equivalent
-
-> 🎉 New User Bonus: Get ¥20 extra on first deposit of ¥100!
+Minimum deposit: $100 or equivalent
 ```
 
-#### Step 3: Create Virtual Card
+#### Step 3: Apply for Virtual Card
 ```
-Choose Settings:
+Select parameters:
 - Currency (USD/EUR/GBP)
-- Card Limit
-- Validity Period (One-time/Monthly/Yearly)
+- Card limit
+- Validity period (one-time/monthly/yearly)
 
-Instant Generation: Ready in 5 minutes
+Instant generation: Available within 5 minutes
 ```
 
 #### Step 4: Start Paying
 ```
-Use For:
-- Any Visa/Mastercard merchant worldwide
-- Ad platform binding
+Use cases:
+- Merchants worldwide that support Visa/Mastercard
+- Advertising platform binding
 - Subscription service payments
 - Online shopping
 ```
 
-### 💰 Pricing
+### 💰 Fees
 
 | Item | Fee | Description |
-|------|------|-------------|
-| Card Creation | ¥5-15/card | Varies by card type |
-| Monthly Service | ¥0-5/card | Free for VIP cards |
-| Deposit Fee | 1-3% | Based on payment method |
-| Currency Exchange | 0.5-1% | Real-time rate |
-| Transaction Fee | 0-1% | Based on merchant type |
+|------|-----|-------------|
+| Card Issuance | $1/card | Varies by card type |
+| Monthly Service Fee | Free | VIP cards waive monthly fee |
+| Top-up Fee | 1% | Varies by payment method |
+| Transaction Fee | 0.1% | Varies by merchant type |
 
-> 🎉 New User Bonus: Get ¥20 extra on first deposit of ¥100!
-
-### 📚 Documentation
-
-- [User Guide](https://ueecard.com/docs/user-guide) - Detailed usage tutorial
-- [FAQ](https://ueecard.com/faq) - 50+ Frequently Asked Questions
-- [API Documentation](#api-documentation) - Developer docs (Coming Soon)
+> 🎉 Limited Time Promotion
 
 ### 🔗 Related Links
 
 - **Official Website**: [https://ueecard.com](https://ueecard.com)
 - **User Center**: [https://center.ueecard.com](https://center.ueecard.com)
 - **Telegram Support**: [@ueecard](https://t.me/ueecard)
-- **Community Group**: [Join Telegram Group](https://t.me/UeeCardGroup)
-
-### 📊 Account Types
-
-| Account Type | Monthly Limit | Card Limit | For Whom |
-|-------------|--------------|------------|-----------|
-| Basic | $5,000 | 5 cards | Individual users, Beginners |
-| VIP | $20,000 | 20 cards | E-commerce sellers, Businesses |
-| Enterprise | Unlimited | Unlimited | Large companies, Agencies |
+- **User Community**: [Join Telegram Group](https://t.me/UeeCardGroup)
 
 ### 🎯 Why Choose UeeCard
 
-- ✅ **Fast Setup** - Up and running in 5 minutes, no complex verification
-- ✅ **Transparent Pricing** - No hidden fees, pay as you go
-- ✅ **Bank-Level Security** - Bank-grade risk control and encryption
-- ✅ **Global Acceptance** - Visa/Mastercard network, 200+ countries
-- ✅ **Dedicated Support** - 7×24 hour Telegram support
-- ✅ **Flexible & Convenient** - Create cards anytime, freeze anytime, real-time control
+- ✅ **Fast Activation** - As fast as 5 minutes, no complex verification required
+- ✅ **Transparent Costs** - No hidden fees, settle by actual consumption
+- ✅ **Bank-Level Security** - Bank-grade risk control and encryption technology
+- ✅ **Global Acceptance** - Visa/Mastercard network, covering 200+ countries
+- ✅ **Dedicated Support** - 7×24 hour Telegram customer service
+- ✅ **Flexible & Convenient** - Issue cards anytime, pause anytime, real-time control
 
 ### ⚠️ Important Notice
 
-- UeeCard is intended for legal cross-border payments and business purposes only
-- Prohibited for money laundering, gambling, illegal transactions, or activities violating Chinese and international laws
-- Users are responsible for legal consequences of misuse
+- UeeCard is only for legitimate cross-border payments and business use
+- Prohibited for money laundering, gambling, illegal transactions, or activities that violate Chinese laws and international regulations
+- Users bear full legal consequences for any violations
 - We reserve the right to freeze accounts for violations
 
 ### 📞 Contact Us
 
-- **Telegram**: [@ueecard](https://t.me/ueecard) - 7×24 hour support
+- **Telegram**: [@ueecard](https://t.me/ueecard) - 24/7 customer service
 - **Email**: support@ueecard.com
-- **Support Hours**: 24/7 Online Support
+- **Working Hours**: Round-the-clock online support
 
 ### 📝 Changelog
 
-#### v1.0.0 (March 2026)
-- 🎉 Official product launch
+#### v1.0.0 (2026-03)
+- 🎉 Product officially launched
 - ✨ Multi-currency virtual card support
 - 🔒 Bank-level security protection
-- 📊 Real-time transaction history
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-<div align="center">
-
-**Made with ❤️ by UeeCard Team**
-
-[⬆ Back to Top](#ueecard---international-virtual-credit-card-service)
-
-</div>
+- 📊 Real-time transaction record queries

@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/UeeCardOfficial/ueecard?style=social)](https://github.com/UeeCardOfficial/ueecard/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/UeeCardOfficial/ueecard?style=social)](https://github.com/UeeCardOfficial/ueecard/network/members)
 
-[English](#english) | [中文](#中文)
+[English](#english) | [中文](#中文) | [帮助中心] (https://github.com/UeeCardOfficial/.github/blob/main/HELP_CENTER.md)
 
 </div>
 

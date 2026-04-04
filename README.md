@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![UeeCard Logo](https://api.ueepay.com/files/admin/20260316/8db7236f424f7f96bb97b306e7e3ee4a.svg)
+![UeeCard Logo](https://github.com/user-attachments/assets/9def5ad4-0c91-44f4-8527-a632c5f4a1e5)
 
 **专业的国际虚拟信用卡服务平台**
 
